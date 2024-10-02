@@ -1420,14 +1420,15 @@ section,
 }
 
 .team .member span {
-  font-style: italic;
+  font-style :normal;
+  font: bold;
   display: block;
-  font-size: 13px;
+  font-size: 20px;
 }
 
 .team .member .social {
   position: absolute;
-  right: 15px;
+  right: 280px;
   bottom: 15px;
 }
 
